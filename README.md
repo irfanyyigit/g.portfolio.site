@@ -241,23 +241,3 @@ g.portfolio.site/
 └── img/                # Image assets
 ```
 
----
-
-## Author
-
-Developed by İrfan Yiğit for professional portfolio presentation
-
----
-
-## License
-
-This project is open source and available for educational and personal use.
-
----
-
-## Contact Information
-
-- **Email** - Available through contact form
-- **WhatsApp** - Direct messaging available
-- **Telegram** - Available at @irfanyigit1234
-- **Location** - Kayseri / Melikgazi, Turkey
